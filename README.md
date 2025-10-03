@@ -1,7 +1,7 @@
 # Hi there, I'm Son! 👋
 
 ## About Me
-I'm an ML enthusiast who likes to test new things and read papers in my free time.
+I'm an graphics & ML enthusiast who likes to test new things and read papers in my free time.
 
 ## What I'm Currently Working On 🔭
 - Research in Spatial Intelligence, at intersection of vision, graphics, and ML.
