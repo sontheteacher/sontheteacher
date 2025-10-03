@@ -4,13 +4,11 @@
 I'm an ML enthusiast who likes to test new things and read papers in my free time.
 
 ## What I'm Currently Working On 🔭
-- Research in Computer Graphics & Machine Learning.
-- Working on building Stable Diffusion from scratch.
-- Contributing open-source to [transformers](https://github.com/sontheteacher/transformers)
+- Research in Spatial Intelligence, at intersection of vision, graphics, and ML.
 
 ## Skills & Technologies 💻
-- Programming Languages: Python, C++, C, Java
-- Frameworks & Tools: Pytorch, 
+- Programming Languages: Python, C++, C
+- Frameworks & Tools: Pytorch, cuda
 - Areas of Interest: Applied Machine Learning & Deep Learning, Research Development
 
 ## Currently Learning 🌱
