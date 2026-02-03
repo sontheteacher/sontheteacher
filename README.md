@@ -1,18 +1,11 @@
 # Hi there, I'm Son! 👋
 
 ## About Me
-I'm an graphics & ML enthusiast who likes to test new things and read papers in my free time.
+I'm an Software & ML Engineer enthusiast who builds new things and reads papers in my free time.
 
-## What I'm Currently Working On 🔭
+## What I'm Currently Working On
+- High-performance, low-latency computer systems. I like fast things.
 - Research in Spatial Intelligence, at intersection of vision, graphics, and ML.
-
-## Skills & Technologies 💻
-- Programming Languages: Python, C++, C
-- Frameworks & Tools: Pytorch, cuda
-- Areas of Interest: Applied Machine Learning & Deep Learning, Research Development
-
-## Currently Learning 🌱
-- Machine Learning Vision Models
 
 ## Some Past Projects
 - [Feynman.ai](https://github.com/sontheteacher/Feynman.ai): We built a website to generate videos to explain math based on user's prompt, animated with [Manim](https://github.com/ManimCommunity/manim).
