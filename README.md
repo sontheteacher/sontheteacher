@@ -1,7 +1,7 @@
 # Hi there, I'm Son! 👋
 
 ## About Me
-I'm an Software & ML Engineer enthusiast who builds new things and reads papers in my free time.
+I'm an Software & ML Engineer enthusiast. In my free time, I like explore new papers, ski, and climb.
 
 ## What I'm Currently Working On
 - High-performance, low-latency computer systems. I like fast things.
